@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "@sigid/cli",
+      "version": "0.5.0",
+      "url": "https://registry.npmjs.org/@sigid/cli/-/cli-0.5.0.tgz",
+      "integrity": "sha512-cV8s2CcGkjd2EA4b2u5ZWJTdFspgbPFh6pD45cU6zth46hYEC9uHthYBK/kAh8rBqyNfSTz1k0+8uQTrlOYhxg==",
+      "repository": "sigid-cli",
+      "directory": ".",
+      "original_files_sha256": {
+        "scripts/platform.js": "3107d77ab6bafb292440a5c17436c3a697de0637f222146bb32373eeefc24f0e",
+        "scripts/platform.test.js": "a03cc5eccb45443f8c4ddcbe5932c4daffa4c335b0af1c96b96ba6fef192ff0d",
+        "scripts/postinstall.js": "42a670d765d8574bea7c8295ef92974a21698137fcbe05c97028d8aee6071386",
+        "scripts/resolve-binary.js": "751d3b1738248d9fc485b8441ad9cfb40b6266b262a89485391929fb975d764c",
+        "scripts/resolve-binary.test.js": "2721c17b44fad544c7c905d2cc663e4c6ff719fe499ee867ffbf60120c64e673",
+        "bin/sigid.js": "1819172f18f8e7846fc352c4c76882a6faeba3b478466c6e5af0574aa76033d1",
+        "package.json": "26c36360ac1af7ed2e6930f994425ce38067c2e7df642ba33f3f5fb59627c68e",
+        "README.md": "051401ea04c1f64037273edadf9c3342686bc20c59467f8c798ec80c755b7e9a"
+      },
+      "recovered_sources": {},
+      "metadata_edits": [
+        "package.json: public repository and issue links"
+      ]
+    }
+  ],
+  "additions": [
+    "README.md introduction",
+    "SOURCE_PROVENANCE.json",
+    "LICENSE (MIT, SigID contributors)",
+    ".gitignore"
+  ]
+}
